@@ -64,8 +64,8 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: king graphics (Demo);
-  --code-font: king graphics (Demo);
+  --main-font: gg sans;
+  --code-font: gg sans;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
